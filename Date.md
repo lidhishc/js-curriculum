@@ -215,3 +215,9 @@ Convert 'Apr 28 2022 15:25:10 GMT-0130' to you local date and time in 24HR forma
 [Date.prototype.toLocaleString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)
 
 </details>
+
+### Challenge 29
+
+```
+Convert your current date into YYYY/MM/DD format.
+```
